@@ -1,0 +1,70 @@
+mysql>create database fashion;
+
+mysql>create table fashion1(FirstName varchar(20),LastName varchar(20),Username varchar(20),Email varchar(100),Mobile int,Address varchar(30));
+
+mysql>create table fashion1(FirstName varchar(20),LastName varchar(20),Username varchar(20),Email varchar(100),Mobile int,Address varchar(30),Amount int);
+
+mysql>create table fashion2(Username varchar(20),Password varchar(20));
+
+mysql>create table fashion3(Username varchar(20),amt int);
+
+CREATE TABLE IF NOT EXISTS boys (
+    `Product_Id` VARCHAR(2) CHARACTER SET utf8,
+    `Name` VARCHAR(5) CHARACTER SET utf8,
+    `Price` INT
+);
+
+INSERT INTO boys VALUES
+    ('b1','boys1',615),
+    ('b2','boys2',499),
+    ('b3','boys3',799),
+    ('b4','boys4',700),
+    ('b5','boys5',600),
+    ('b6','boys6',400),
+    ('b7','boys7',700),
+    ('b8','boys8',850);
+    
+  CREATE TABLE IF NOT EXISTS girls (
+    `Product_Id` VARCHAR(2) CHARACTER SET utf8,
+    `Name` VARCHAR(15) CHARACTER SET utf8,
+    `Price` INT
+);
+INSERT INTO girls VALUES
+    ('g1','girls1',448),
+    ('g2','girls2',195),
+    ('g3','girls3',448),
+    ('g4','girls4',328),
+    ('g5','girls5',499),
+    ('g6','girls6',490),
+    ('g7','girls7',639),
+    ('g8','girls8',328);
+    
+     CREATE TABLE IF NOT EXISTS womens (
+    `Product_Id` VARCHAR(2) CHARACTER SET utf8,
+    `Name` VARCHAR(15) CHARACTER SET utf8,
+    `Price` INT
+); 
+INSERT INTO womens VALUES
+    ('w1','womens1',448),
+    ('w2','womens2',195),
+    ('w3','womens3',448),
+    ('w4','womens4',328),
+    ('w5','womens5',499),
+    ('w6','womens6',490),
+    ('w7','womens7',639),
+    ('w8','womens8',328);
+    
+     CREATE TABLE IF NOT EXISTS mens (
+    `Product_Id` VARCHAR(2) CHARACTER SET utf8,
+    `Name` VARCHAR(15) CHARACTER SET utf8,
+    `Price` INT
+);  
+INSERT INTO mens VALUES
+    ('m1','mens1',448),
+    ('m2','mens2',195),
+    ('m3','mens3',448),
+    ('m4','mens4',328),
+    ('m5','mens5',499),
+    ('m6','mens6',490),
+    ('m7','mens7',639),
+    ('m8','mens8',328);

@@ -1,0 +1,33 @@
+mysql>create database fashion;
+
+mysql>create table fashion1(FirstName varchar(20),LastName varchar(20),Username varchar(20),Email varchar(100),Mobile int,Address varchar(30));
+
+mysql>create table fashion2(Username varchar(20),Password varchar(20));
+
+mysql>create table fashion3(Username varchar(20),amt int);
+
+mysql> create table stock (product_id int,product_name varchar(1000),cost int);
+Query OK, 0 rows affected (0.13 sec)
+
+mysql>  insert into stock values(1,"Grid Print Blouse",780),(2,"Men Space DyeTee",828);
+Query OK, 2 rows affected (0.08 sec)
+Records: 2  Duplicates: 0  Warnings: 0
+
+mysql>  insert into stock values(3,"Men Branches Print Blouse",773),(4,"Men Striped Blouse",773),(5,"Men Feather Print Shirt",780),(6,"men Letter and Tropica Print Tee",386),(7,"Men Galaxy Print Tee",711),(8,"Men Forest Print Tee",683);
+Query OK, 6 rows affected (0.09 sec)
+Records: 6  Duplicates: 0  Warnings: 0
+
+mysql>  insert into stock values(9,"Men letter print drawstring pocket pants",1131),(10,"Men camo elastic foot close skinny pants",1401),(11,"Men drawstring elastic foot close skinny pants",1815),(12,"men Letter print rolled hem harem pants",1490),(13,"men elastic foot pants",1000),(14,"Men Pocket Waist Solid Pants",1815),(15,"men camo print drawstring waist pants",1332),(16,"Men Pocket Detail camo print pants",1394);
+Query OK, 8 rows affected (0.08 sec)
+Records: 8  Duplicates: 0  Warnings: 0
+
+
+
+mysql>  insert into stock values(17,"Air max infuriate Low Basketball Shoes",2798),(18,"C.L Attentive Leather Pack Trainers",4000),(19,"Air zoom peagasus 34 running shoes",3998),(20,"air epic speed training shoes",2118);
+Query OK, 4 rows affected (0.13 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+mysql>  insert into stock values(20,"Tanjun Racer Shoes",2198),(21,"Hi top sneakers",795),(23,"Casual slip ons in contrast deatailing",495),(24,"Lunarglide running shoes",4398);
+Query OK, 4 rows affected (0.08 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
