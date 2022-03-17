@@ -1,6 +1,6 @@
 ﻿**FASHION STORE**
 
-![](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.001.png)
+![](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.001.png)
 
 
 
@@ -155,19 +155,19 @@ This software consists of many modules and these modules consist of various sub 
 
 Class Diagram:
 
-![C:\Users\newuser\Downloads\ER1.png](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.002.png)
+![C:\Users\newuser\Downloads\ER1.png](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.002.png)
 
 ER Diagram:
 
-![C:\Users\newuser\Downloads\Untitled Diagram.png](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.003.png)
+![C:\Users\newuser\Downloads\Untitled Diagram.png](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.003.png)
 
 **DATABASE SCHEMA**
 
 The database is used to store the details of the customer like his username, address and various other details.
 
-![C:\Users\newuser\Pictures\Store\d1.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.004.png)
+![C:\Users\newuser\Pictures\Store\d1.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.004.png)
 
-![C:\Users\newuser\Pictures\Store\d2.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.005.png)
+![C:\Users\newuser\Pictures\Store\d2.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.005.png)
 
 **CONCLUSION**
 
@@ -183,10 +183,10 @@ They are able to get the product any time and from anywhere, which makes it easy
 
 ScreenShots:
 
-![C:\Users\newuser\Pictures\Store\1.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.006.png)![C:\Users\newuser\Pictures\Store\2.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.007.png)
+![C:\Users\newuser\Pictures\Store\1.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.006.png)![C:\Users\newuser\Pictures\Store\2.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.007.png)
 
-![C:\Users\newuser\Pictures\Store\3.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.008.png)![C:\Users\newuser\Pictures\Store\4.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.009.png)
+![C:\Users\newuser\Pictures\Store\3.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.008.png)![C:\Users\newuser\Pictures\Store\4.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.009.png)
 
-![C:\Users\newuser\Pictures\Store\7.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.010.png)![C:\Users\newuser\Pictures\Store\8.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.011.png)
+![C:\Users\newuser\Pictures\Store\7.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.010.png)![C:\Users\newuser\Pictures\Store\8.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.011.png)
 
-![C:\Users\newuser\Pictures\Store\9.PNG](Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.012.png)
+![C:\Users\newuser\Pictures\Store\9.PNG](ReadME/Aspose.Words.616c3d81-a154-4562-8016-c3a5da57b52c.012.png)
